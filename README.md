@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=70)
 
 <div align=center>
 

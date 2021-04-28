@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=75)
 
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChedda98&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <!--
 **Chedda98/Chedda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

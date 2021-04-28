@@ -21,7 +21,7 @@
 - Server Developer - [칭찬할고래](https://github.com/Praise-Whale/Praise-Server) : 일상에 자연스러운 칭찬 습관 더하기 [ver 1.1](https://linktr.ee/Goraedan)
 
 ### 2020
-- Server Developer - Milkyway(APPJAM)
+- Server Developer - [Milkyway(APPJAM)](https://github.com/Chedda98/MilkieServer)
 
 ### Experience
 ### 2021

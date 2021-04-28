@@ -22,6 +22,7 @@
 
 ### 2020
 - Server Developer - [Milkyway(APPJAM)](https://github.com/Chedda98/MilkieServer)
+- Server Developer - [칭찬할고래(SOPKATHON)](https://github.com/Praise-Whale/Praise-Server)
 
 ### Experience
 ### 2021

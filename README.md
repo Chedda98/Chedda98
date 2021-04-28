@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=75)
 
 <!--
 **Chedda98/Chedda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

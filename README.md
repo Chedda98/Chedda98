@@ -32,7 +32,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)&nbsp;&nbsp;
 
 <div align=center>
   

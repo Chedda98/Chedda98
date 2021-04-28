@@ -9,6 +9,11 @@
 ## IT's ME!
 <a href="https://www.instagram.com/chedda_92/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>
 
+## Profile
+
+### Education
+2018.03 ~ : Sungshin Women's University, Computer Engineering & Media Communication
+
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChedda98&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

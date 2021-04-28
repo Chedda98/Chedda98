@@ -35,7 +35,7 @@
 
 <div align=center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=SwimintheServer&show_owner=true&theme=buefy)](https://github.com/Chedda98/SwimintheServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=SwimintheServer&show_owner=true&theme=buefy)](https://github.com/Chedda98/SwimintheServer)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChedda98&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

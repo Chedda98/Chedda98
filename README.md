@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=75)
 
+<img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChedda98&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

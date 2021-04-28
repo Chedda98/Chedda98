@@ -15,6 +15,8 @@
 
 </div>
 
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)
 
 <!--

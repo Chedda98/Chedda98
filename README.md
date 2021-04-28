@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=75)
 
-! [Anurag의 GitHub 통계] (https://github-readme-stats.vercel.app/api ? username = Chedda98 & show_icons = true & theme = buefy )
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chedda98&show_icons=true&theme=buefy)
+
+</div>
 
 ## IT's ME!
 <a href="https://www.instagram.com/chedda_92/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>

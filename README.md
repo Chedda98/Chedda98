@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&nbspAws&logoColor=white"/></a>
 ### Projects
 ### 2021
-- Server Developer - Milkyway : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스
+- Server Developer - [Milkyway](https://github.com/Chedda98/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스
 - Server Developer - [칭찬할고래](https://github.com/Praise-Whale/Praise-Server) : 일상에 자연스러운 칭찬 습관 더하기 [ver 1.1](https://linktr.ee/Goraedan)
 
 ### 2020
@@ -32,7 +32,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)
 
 <div align=center>
   

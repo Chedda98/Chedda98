@@ -2,6 +2,9 @@
 
 <div align=center>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chedda98&count_private=true&show_icons=true&theme=buefy)
+<br>
+
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;&nbsp;
@@ -40,8 +43,6 @@
 <br>
 
 <div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chedda98&count_private=true&show_icons=true&theme=buefy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=SwimintheServer&show_owner=true&theme=buefy)](https://github.com/Chedda98/SwimintheServer)
   

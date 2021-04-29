@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=Dain's%20Repository🌷&fontSize=70)
 
+<br>
+
 <div align=center>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chedda98&count_private=true&show_icons=true&theme=buefy)
 

@@ -7,12 +7,15 @@
 </div>
 
 ## IT's ME!
-<a href="https://www.instagram.com/chedda_92/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>&nbsp;&nbsp;<a href="https://github.com/Chedda98?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>
+<a href="https://www.instagram.com/chedda_92/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>&nbsp;&nbsp;<a href="https://github.com/Chedda98?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/chedda_92/"/></a>
 
 ## Profile
 
 ### Education
 2018.03 ~ : Sungshin Women's University, Computer Engineering & Media Communication
+
+<div align=center>
+
 ### Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;&nbsp;
@@ -22,6 +25,9 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&nbspAws&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
+
+</div>
+
 ### Projects
 ### 2021
 - Server Developer - [Milkyway](https://github.com/Chedda98/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스

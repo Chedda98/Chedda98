@@ -11,9 +11,6 @@
 
 ## Profile
 
-### Education
-2018.03 ~ : Sungshin Women's University, Computer Engineering & Media Communication
-
 <div align=center>
 
 ### Tech Stack
@@ -27,6 +24,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
 
 </div>
+
+### Education
+2018.03 ~ : Sungshin Women's University, Computer Engineering & Media Communication
 
 ### Projects
 ### 2021

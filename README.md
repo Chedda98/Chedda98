@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=단단은%20단단💎&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=Dain%20is%20Main🔮&fontSize=65)
 
 <br>
 

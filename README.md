@@ -31,6 +31,7 @@
 ### 2021
 - Server Developer - [Milkyway](https://github.com/Chedda98/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스
 - Server Developer - [칭찬할고래](https://github.com/Praise-Whale/Praise-Server) : 일상에 자연스러운 칭찬 습관 더하기 [ver 1.1](https://linktr.ee/Goraedan)
+- Server Developer - [기억무새(SOPKATHON)](https://github.com/Chedda98/MilkieServer) : 
 
 ### 2020
 - Server Developer - [Milkyway(APPJAM)](https://github.com/Chedda98/MilkieServer)

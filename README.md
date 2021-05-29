@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=merge%20to%20dain✔️&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=✔️merge%20to%20dain🔮&fontSize=65)
 
 <br>
 

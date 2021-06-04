@@ -34,7 +34,7 @@
 - Server Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/yesjam-server) : 센스있는 소통을 위한 멘트 추천 서비스
 
 ### 2020
-- Server Developer - [Milkyway(APPJAM)](https://github.com/Chedda98/MilkieServer)
+- Server Developer - [Milkyway(APPJAM)](https://github.com/MilkyOnOurWay/MilkieServer)
 - Server Developer - [칭찬할고래(SOPKATHON)](https://github.com/Praise-Whale/Praise-Server)
 
 ### Experience

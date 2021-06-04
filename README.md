@@ -29,7 +29,7 @@
 
 ### Projects
 ### 2021
-- Server Developer - [Milkyway](https://github.com/Chedda98/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스
+- Server Developer - [Milkyway](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스
 - Server Developer - [칭찬할고래](https://github.com/Praise-Whale/Praise-Server) : 일상에 자연스러운 칭찬 습관 더하기 [ver 1.1](https://linktr.ee/Goraedan)
 - Server Developer - [기억무새(SOPKATHON)](https://github.com/memoryparrot/yesjam-server) : 센스있는 소통을 위한 멘트 추천 서비스
 
@@ -48,7 +48,7 @@
 
 <div align=center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/Chedda98/MilkieServer)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=SwimintheServer&show_owner=true&theme=buefy)](https://github.com/Chedda98/SwimintheServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Milkieserver&show_owner=true&theme=buefy)](https://github.com/MilkyOnOurWay/MilkieServer)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=Praise_Server&show_owner=true&theme=buefy)](https://github.com/Chedda98/Praise_Server)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chedda98&repo=SwimintheServer&show_owner=true&theme=buefy)](https://github.com/Chedda98/SwimintheServer)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChedda98&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

@@ -36,8 +36,8 @@
 - Server Developer - [컬퓸(Colfume)](https://github.com/colfume/back-2the-fumeture) : 색으로 찾는 나만의 향기, 향수 추천 웹서비스
 
 ### 2020
-- Server Developer - [Milkyway(APPJAM)](https://github.com/MilkyOnOurWay/MilkieServer)
-- Server Developer - [칭찬할고래(SOPKATHON)](https://github.com/Praise-Whale/Praise-Server)
+- Server Developer - [밀키웨이(Milkyway) - APPJAM](https://github.com/MilkyOnOurWay/MilkieServer)
+- Server Developer - [칭찬할고래 - SOPKATHON](https://github.com/Praise-Whale/Praise-Server)
 
 ### Experience
 ### 2021

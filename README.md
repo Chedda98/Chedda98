@@ -29,7 +29,7 @@
 
 ### Projects
 ### 2021
-- Server Developer - [밀키웨이(Milkyway)](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스 [ver 1.0.2](https://linktr.ee/milkyway_official)
+- Server Developer - [밀키웨이(Milkyway)](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스 [ver 1.2.0](https://linktr.ee/milkyway_official)
 - Server Developer - [칭찬할고래](https://github.com/Praise-Whale/Praise-Server) : 일상에 자연스러운 칭찬 습관 더하기 [ver 1.1](https://linktr.ee/Goraedan)
 - Server Developer - [어푸(upu)](https://github.com/Umpah-swim-wave/SwimintheServer) : 물 밖에서 준비하는 수영의 즐거움
 - Server Developer - [기억무새](https://github.com/memoryparrot/yesjam-server) : 센스있는 소통을 위한 멘트 추천 서비스

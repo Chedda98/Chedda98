@@ -40,6 +40,9 @@
 - Server Developer - [칭찬할고래 - SOPKATHON](https://github.com/Praise-Whale/Praise-Server)
 
 ### Experience
+### 2022
+- 30th SOPT Web Development
+
 ### 2021
 - 28th SOPT Server Development
 

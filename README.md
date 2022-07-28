@@ -8,13 +8,16 @@
 
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&nbspAws&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white"/></a>
+
 
 </div>
 
@@ -29,7 +32,7 @@
 
 ### Projects
 ### 2022
-- Web Developer - [이레이저(Eraser)](https://github.com/Sopkathon-30th-2/frontend) : 메일함을 정리하며, 인터넷 일상에서 환경보호 손쉽게 시작하기
+- Web Developer - [E-레이저](https://github.com/Sopkathon-30th-2/frontend) : 메일함을 정리하며, 인터넷 일상에서 환경보호 손쉽게 시작하기
 
 ### 2021
 - Server Developer - [밀키웨이(Milkyway)](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스 [ver 1.2.0](https://linktr.ee/milkyway_official)

@@ -28,7 +28,7 @@
 
 ## Profile
 ### Education
-2018.03 ~ : Sungshin Women's University, Computer Engineering & Media Communication
+2018.03 ~ 2022.08 : Sungshin Women's University, Computer Engineering & Media Communication
 
 ### Projects
 ### 2022

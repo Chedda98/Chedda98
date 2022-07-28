@@ -29,7 +29,7 @@
 
 ### Projects
 ### 2022
-추가 예정 😳
+- Web Developer - [이레이저(Eraser)](https://github.com/Sopkathon-30th-2/frontend) : 메일함을 정리하며, 인터넷 일상에서 환경보호 손쉽게 시작하기
 
 ### 2021
 - Server Developer - [밀키웨이(Milkyway)](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스 [ver 1.2.0](https://linktr.ee/milkyway_official)

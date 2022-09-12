@@ -33,7 +33,7 @@
 ### Projects
 ### 2022
 - Web Developer - [E-레이저](https://github.com/Sopkathon-30th-2/frontend) : 메일함을 정리하며, 인터넷 일상에서 환경보호 손쉽게 시작하기
-- Server Developer - DRAG.ME : 마우스 드래그로 시작하는 일일 성취관리 계획표
+- Server Developer - [DRAG.ME](https://github.com/Team-DragMe/Drop-the-BE) : 마우스 드래그로 시작하는 일일 성취관리 계획표
 
 ### 2021
 - Server Developer - [밀키웨이(Milkyway)](https://github.com/MilkyOnOurWay/MilkieServer) : '속' 상하기 쉬운 모두를 위한 카페 위치 제공 서비스 [ver 1.2.0](https://linktr.ee/milkyway_official)
